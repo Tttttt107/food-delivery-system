@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../2019S2/COMP2100/comp2100-labs-masterok/junit/junit4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
